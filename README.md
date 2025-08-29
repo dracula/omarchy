@@ -1,18 +1,35 @@
-# Omarchy Dracula Theme
+# Dracula for [Omarchy](https://omarchy.org)
 
-This is the Dracula Theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
+> A dark theme for [Omarchy](https://omarchy.org).
+>
+> An opinionated Arch + Hyprland Setup by [DHH](https://dhh.dk).
+>
+> This Dracula Theme for Omarchy focuses on providing a cohesive and visually appealing setup for your environment.
 
-<p align="center">
-  <img src="theme.png" alt="Dracula Theme Preview">
-</p>
+![Screenshot](./screenshot.png)
 
-## Installation
+## Install
 
-To install this theme, simply use the `omarchy-theme-install` command:
+All instructions can be found at [draculatheme.com/omarchy](https://draculatheme.com/omarchy).
 
-```bash
-omarchy-theme-install https://github.com/catlee/omarchy-dracula-theme
-```
+## Team
 
-## X.com
-[chrisatlee](https://x.com/chrisatlee)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/omarchy/graphs/contributors).
+
+| [![Chris AtLee](https://github.com/catlee.png?size=100)](https://github.com/catlee) |
+| ----------------------------------------------------------------------------------- |
+| [Chris AtLee](https://github.com/catlee)                                            |
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+
+## Dracula PRO
+
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
+
+## License
+
+[MIT License](./LICENSE)
